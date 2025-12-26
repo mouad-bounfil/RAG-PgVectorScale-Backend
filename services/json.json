@@ -1,0 +1,42 @@
+[
+  {
+    "page_content": "AI Bootcamp – Agent Questions & Answers\n\nThis document contains example questions and answers for an AI assistant designed to respond to\nstudents interested in an Artificial Intelligence Bootcamp.\n\nQ: What is this AI Bootcamp about?",
+    "metadata": { "page": 1, "chunk_index": 0, "chunk_id": "p-1-chunk-0" },
+    "id": "p-1-chunk-0"
+  },
+  {
+    "page_content": "Q: What is this AI Bootcamp about?\n\nA: This bootcamp is an intensive training program focused on Artificial Intelligence, Machine Learning, and\npractical applications such as AI Agents, NLP, and Computer Vision.\n\nQ: Who can apply to the bootcamp?",
+    "metadata": { "page": 1, "chunk_index": 1, "chunk_id": "p-1-chunk-1" },
+    "id": "p-1-chunk-1"
+  },
+  {
+    "page_content": "Q: Who can apply to the bootcamp?\n\nA: The bootcamp is open to students, graduates, and professionals with basic programming knowledge in\nPython or JavaScript and an interest in AI.\n\nQ: Do I need prior experience in AI?",
+    "metadata": { "page": 1, "chunk_index": 2, "chunk_id": "p-1-chunk-2" },
+    "id": "p-1-chunk-2"
+  },
+  {
+    "page_content": "Q: Do I need prior experience in AI?\n\nA: No advanced AI experience is required. We start with fundamentals and progressively move to\nadvanced topics.\n\nQ: What technologies will I learn?",
+    "metadata": { "page": 1, "chunk_index": 3, "chunk_id": "p-1-chunk-3" },
+    "id": "p-1-chunk-3"
+  },
+  {
+    "page_content": "Q: What technologies will I learn?\n\nA: You will learn Python, Machine Learning algorithms, Deep Learning, LLMs, AI Agents, APIs, and\ndeployment tools.\n\nQ: Is the bootcamp online or in-person?\n\nA: The bootcamp is delivered in hybrid mode, with both online sessions and in-person workshops.",
+    "metadata": { "page": 1, "chunk_index": 4, "chunk_id": "p-1-chunk-4" },
+    "id": "p-1-chunk-4"
+  },
+  {
+    "page_content": "Q: How long does the bootcamp last?\n\nA: The bootcamp typically lasts between 8 and 12 weeks, including projects and evaluations.\n\nQ: Will I work on real projects?\n\nA: Yes, participants work on real-world projects such as chatbots, AI agents, recommendation systems,\nand data analysis dashboards.",
+    "metadata": { "page": 1, "chunk_index": 5, "chunk_id": "p-1-chunk-5" },
+    "id": "p-1-chunk-5"
+  },
+  {
+    "page_content": "Q: Do you provide a certificate?\n\nA: Yes, a certificate of completion is provided at the end of the bootcamp.\n\nQ: How does the AI agent help students?\n\nA: The AI agent answers questions about the program, schedule, prerequisites, pricing, and guides\nstudents through the registration process.",
+    "metadata": { "page": 1, "chunk_index": 6, "chunk_id": "p-1-chunk-6" },
+    "id": "p-1-chunk-6"
+  },
+  {
+    "page_content": "Q: How can I register?\nA: You can register by filling out the online application form and our team will contact you for the next steps.",
+    "metadata": { "page": 2, "chunk_index": 0, "chunk_id": "p-2-chunk-0" },
+    "id": "p-2-chunk-0"
+  }
+]
